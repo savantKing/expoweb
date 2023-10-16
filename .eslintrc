@@ -1,0 +1,9 @@
+{
+	"extends": "@react-native-community",
+
+	"rules": {
+		"prettier/prettier": ["error", { "printWidth": 120 }],
+		"react/react-in-jsx-scope": "off",
+		"quotes": [2, "double", { "avoidEscape": true }]
+	}
+}
